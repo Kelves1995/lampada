@@ -94,7 +94,8 @@ btn.addEventListener("click", () => {
             e és amor na forma mais pura.
             <br><br>
             Ser quem tu és, e ainda uma mãe incrível não é comum.
-            É raro. É <strong>extraordinário</strong>.
+            É raro. 
+            É <strong>extraordinário</strong>.
             <br><br>
             <strong>Bom dia, bby kkkkk</strong>
         </p>
