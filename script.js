@@ -90,11 +90,13 @@ btn.addEventListener("click", () => {
         <p style="margin-top:20px; line-height:1.6; font-size:1.1rem">
             Há mulheres que não pedem reconhecimento… mas merecem tudo.
             <br><br>
-            Tu és força quando ninguém vê, és cuidado quando mais importa,
+            Tu és força quando ninguém vê, és cuidado quando ninguem mais importa,
             e és amor na forma mais pura.
             <br><br>
-            Ser quem tu és — e ainda uma mãe incrível — não é comum.
+            Ser quem tu és, e ainda uma mãe incrível não é comum.
             É raro. É <strong>extraordinário</strong>.
+            <br><br>
+            <strong>Bom dia, bby kkkkk</strong>
         </p>
         <button class="choco-btn" id="choco">Queres um chocolate?</button>
     `;
